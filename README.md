@@ -1,5 +1,5 @@
 # FakeNewsDedection
-Download the source code, extract the compressed file (if applicable), and navigate to the project directory in your file system.
+Download the source code, extract the compressed file, and navigate to the project directory in your file system.
 Open the command prompt or terminal.
 Go to the file location (for example " cd "C:\Downloads\FakeNewsDetection")
 In the terminal, type "python app.py" and press Enter.
